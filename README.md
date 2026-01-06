@@ -2,7 +2,7 @@
 
 A multi-page MCQ (Multiple Choice Questions) exam management system for creating, taking, and managing tests. Built with vanilla JavaScript, HTML5, and CSS3.
 
-[![Live Demo](https://img.shields.io/badge/Demo-Live-green)](https://rizwan-ullah-tech.github.io/MCQ-Exam-System/)
+[![Live Demo](https://img.shields.io/badge/Demo-Live-green)](https://rizwan-ullah-tech.github.io/MCQ-Exam-Generator/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## Features
@@ -30,7 +30,7 @@ Prerequisites:
 
 Install and run:
 ```bash
-git clone https://github.com/Rizwan-Ullah-tech/MCQ-Exam-System.git
+git clone https://github.com/Rizwan-Ullah-tech/MCQ-Exam-Generator.git
 cd MCQGenius
 python3 -m http.server 5000
 # Open http://localhost:5000
@@ -101,7 +101,7 @@ Works in modern browsers with ES6 module support: Chrome, Firefox, Safari, Edge.
 GitHub Pages:
 1. Push to main branch
 2. Settings → Pages → select branch and root folder
-3. Site available at https://rizwan-ullah-tech.github.io/MCQ-Exam-System/
+3. Site available at https://rizwan-ullah-tech.github.io/MCQ-Exam-Generator/
 
 ## Contributing
 
